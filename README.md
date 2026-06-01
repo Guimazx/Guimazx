@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me 
 
-<!--
-**Guimazx/Guimazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henrique, an ADS (Systems Analysis and Development) student passionate about technology, software development, and problem-solving. 
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & JavaFX
+- SQL Server
+- Git & GitHub
+- Software Engineering
+- Database Modeling
+
+## Interested in
+
+- Backend Development
+- Desktop Applications
+- Databases
+- Artificial Intelligence
+- System Analysis and Design
+- Frontend Development
+
+## Goals
+
+- Improve my Java development skills
+- Build complete desktop and web applications
+- Learn more about software architecture and design patterns
+- Contribute to open-source projects
